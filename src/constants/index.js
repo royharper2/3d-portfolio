@@ -105,18 +105,12 @@ const techStackImgs = [
     imgPath: "/images/logos/three.png",
   },
   {
-    name: "Project Manager",
+    name: "Version Control",
     imgPath: "/images/logos/git.svg",
   },
 ];
 
 const techStackIcons = [
-  {
-    name: "React Developer",
-    modelPath: "/models/react_logo-transformed.glb",
-    scale: 1,
-    rotation: [0, 0, 0],
-  },
   {
     name: "Python Developer",
     modelPath: "/models/python-transformed.glb",
@@ -135,8 +129,14 @@ const techStackIcons = [
     scale: 0.05,
     rotation: [0, 0, 0],
   },
+   {
+    name: "React Developer",
+    modelPath: "/models/react_logo-transformed.glb",
+    scale: 1,
+    rotation: [0, 0, 0],
+  },
   {
-    name: "Project Manager",
+    name: "Version Control",
     modelPath: "/models/git-svg-transformed.glb",
     scale: 0.05,
     rotation: [0, -Math.PI / 4, 0],
@@ -147,8 +147,8 @@ const techStackIcons = [
 const expCards = [
    {
     review: "Shrusti demonstrated exceptional initiative and technical skill during her Full Stack Development internship. She quickly grasped core Python concepts, efficiently built end-to-end web applications, and consistently impressed us with her ability to integrate front-end and back-end components seamlessly",
-    imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
+    imgPath: "/images/eth.jpg",
+    logoPath: "/images/2.jpg",
     title: "Python Full Stack Developer L1",
     date: "Sep 2024 - Dec 2024",
     responsibilities: [
@@ -163,8 +163,8 @@ const expCards = [
   },
   {
     review: "Shrusti demonstrated exceptional growth during Level 2 of our Python Full Stack Development program. Her ability to architect scalable back-end services, integrate modern front-end frameworks, and work seamlessly with databases and RESTful APIs showcased her as a well-rounded and reliable developer. Her collaborative spirit and consistent delivery made her an asset to the team.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
+    imgPath: "/images/eth.jpg",
+    logoPath: "/images/2.jpg",
     title: "Python Full Stack Developer L2",
     date: "Feb 2025 - June 2025",
     responsibilities: [
