@@ -250,39 +250,29 @@ const testimonials = [
 name: "Dr. Sangeeta Jirgi",
 mentions: "@drsangeetajirgi",
 review: "Shrusti created a beautiful and professional website for my dental clinic that truly reflects the quality and care we offer. Her attention to detail, design sense, and technical skills made the process seamless. I’ve received several compliments from patients, and it has significantly improved our clinic’s online presence.",
-imgPath: "/images/client2.png",
+imgPath: "/images/nodp.jpg",
   },
  {
   name: "Pallavi Swamy",
   mentions: "@pallaviswamy",
   review: "Shrusti made our Finance Tracker project smooth and efficient. Her Flask skills and clarity in execution were a major win for our team.",
-  imgPath: "/images/client3.png",
+  imgPath: "/images/nodp.jpg",
 },
 {
   name: "Nikhita N B",
   mentions: "@nikhitanb",
   review: "Loved working with Shrusti—she brought structure and logic into the project like a pro. Her backend work made everything run seamlessly.",
-  imgPath: "/images/client4.png",
+  imgPath: "/images/nodp.jpg",
 }
 ,
 ];
 
 const socialImgs = [
-  {
-    name: "insta",
-    imgPath: "/images/insta.png",
-  },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    imgPath: "/images/x.png",
-  },
+ 
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    url:"www.linkedin.com/in/shrusti-jirgi"
   },
 ];
 
