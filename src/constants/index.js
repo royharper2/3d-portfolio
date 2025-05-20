@@ -142,12 +142,6 @@ const techStackIcons = [
     rotation: [0, -Math.PI / 4, 0],
   },
     {
-    name: "javascript",
-    modelPath: "/images/javascript.png",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
-  },
-    {
     name: "Version Control",
     modelPath: "/models/git-svg-transformed.glb",
     scale: 0.05,
