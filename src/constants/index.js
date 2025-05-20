@@ -234,7 +234,7 @@ imgPath: "/images/nodp.jpg",
   name: "Pallavi Swamy",
   mentions: "@pallaviswamy",
   review: "Shrusti made our Finance Tracker project smooth and efficient. Her Flask skills and clarity in execution were a major win for our team.",
-  imgPath: "/images/nodp.jpg",
+  imgPath: "/images/nodis.png",
 },
 {
   name: "Nikhita N B",
@@ -250,7 +250,8 @@ const socialImgs = [
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
-  },
+    url:"https://www.linkedin.com/in/shrusti-jirgi/
+  }
 ];
 
 export {
