@@ -87,114 +87,53 @@ const abilities = [
   },
 ];
 
-const techStackImgs = [
-  {
-    name: "python",
-    imgPath: "/images/logos/react.png",
-  },
-   {
-    name: "Python",
-    imgPath: "/images/logos/python.svg",
-  },
-   {
-    name: "C++",
-    imgPath: "/images/cpp.jpeg",
-  },
-   {
-    name: "Java Script",
-    imgPath: "/images/javascript.png",
-  },
-   {
-    name: "HTML",
-    imgPath: "/images/html.jpeg",
-  },
-   {
-    name: "CSS",
-    imgPath: "/images/css.png",
-  },
-   {
-    name: "Flask",
-    imgPath: "/images/flask.jpeg",
-  },
-   {
-    name: "Java",
-    imgPath: "/images/java.jpeg",
-  },
-   {
-    name: "SQL",
-    imgPath: "/images/sql.jpeg",
-  },
-  {
-    name: "AWS",
-    imgPath: "/images/aws.png",
-  },
-  
-];
-
-
-const techStackIcons = [
+const techStack = [
   {
     name: "Python",
+    type: "3d",
     modelPath: "/models/python-transformed.glb",
     scale: 0.8,
     rotation: [0, 0, 0],
   },
   {
     name: "C++",
-    modelPath: "/models/node-transformed.glb",
-    scale: 5,
-    rotation: [0, -Math.PI / 2, 0],
+    type: "image",
+    imgPath: "/images/cpp.jpeg",
   },
   {
-    name: "Java Script",
-    modelPath: "/models/three.js-transformed.glb",
-    scale: 0.05,
-    rotation: [0, 0, 0],
-  },
-    {
-    name: "React",
-    modelPath: "/models/react_logo-transformed.glb ",
-    scale: 1,
-    rotation: [0, 0, 0],
+    name: "Java",
+    type: "image",
+    imgPath: "/images/java.jpeg",
   },
   {
     name: "HTML",
-    modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
+    type: "image",
+    imgPath: "/images/html.jpeg",
   },
-    {
+  {
     name: "CSS",
-    modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
+    type: "image",
+    imgPath: "/images/css.png",
   },
-    {
-    name: "Flask",
-    modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
-  },
-    {
-    name: "Java",
-    modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
-  },
-    {
+  {
     name: "SQL",
-    modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
+    type: "image",
+    imgPath: "/images/sql.jpeg",
   },
-    {
-    name: "React JS",
-    modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
+  {
+    name: "Flask",
+    type: "image",
+    imgPath: "/images/flask.jpeg",
   },
-  
+  {
+    name: "React",
+    type: "3d",
+    modelPath: "/models/react_logo-transformed.glb",
+    scale: 1,
+    rotation: [0, 0, 0],
+  },
 ];
+
 
 const expCards = [
    {
@@ -272,7 +211,6 @@ const socialImgs = [
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
-    url:"www.linkedin.com/in/shrusti-jirgi"
   },
 ];
 
