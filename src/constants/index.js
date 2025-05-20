@@ -87,50 +87,59 @@ const abilities = [
   },
 ];
 
-const techStack = [
+const techStackImgs = [
   {
-    name: "Python",
-    type: "3d",
+    name: "React Developer",
+    imgPath: "/images/logos/react.png",
+  },
+  {
+    name: "Python Developer",
+    imgPath: "/images/logos/python.svg",
+  },
+  {
+    name: "Backend Developer",
+    imgPath: "/images/logos/node.png",
+  },
+  {
+    name: "Interactive Developer",
+    imgPath: "/images/logos/three.png",
+  },
+  {
+    name: "Project Manager",
+    imgPath: "/images/logos/git.svg",
+  },
+];
+
+const techStackIcons = [
+  {
+    name: "React Developer",
+    modelPath: "/models/react_logo-transformed.glb",
+    scale: 1,
+    rotation: [0, 0, 0],
+  },
+  {
+    name: "Python Developer",
     modelPath: "/models/python-transformed.glb",
     scale: 0.8,
     rotation: [0, 0, 0],
   },
   {
-    name: "C++",
-    type: "image",
-    imgPath: "/images/cpp.jpeg",
+    name: "Backend Developer",
+    modelPath: "/models/node-transformed.glb",
+    scale: 5,
+    rotation: [0, -Math.PI / 2, 0],
   },
   {
-    name: "Java",
-    type: "image",
-    imgPath: "/images/java.jpeg",
-  },
-  {
-    name: "HTML",
-    type: "image",
-    imgPath: "/images/html.jpeg",
-  },
-  {
-    name: "CSS",
-    type: "image",
-    imgPath: "/images/css.png",
-  },
-  {
-    name: "SQL",
-    type: "image",
-    imgPath: "/images/sql.jpeg",
-  },
-  {
-    name: "Flask",
-    type: "image",
-    imgPath: "/images/flask.jpeg",
-  },
-  {
-    name: "React",
-    type: "3d",
-    modelPath: "/models/react_logo-transformed.glb",
-    scale: 1,
+    name: "Interactive Developer",
+    modelPath: "/models/three.js-transformed.glb",
+    scale: 0.05,
     rotation: [0, 0, 0],
+  },
+  {
+    name: "Project Manager",
+    modelPath: "/models/git-svg-transformed.glb",
+    scale: 0.05,
+    rotation: [0, -Math.PI / 4, 0],
   },
 ];
 
@@ -153,10 +162,10 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Shrusti demonstrated exceptional growth during Level 2 of our Python Full Stack Development program. Her ability to architect scalable back-end services, integrate modern front-end frameworks, and work seamlessly with databases and RESTful APIs showcased her as a well-rounded and reliable developer. Her collaborative spirit and consistent delivery made her an asset to the team.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
+    title: "Python Full Stack Developer L2",
     date: "Feb 2025 - June 2025",
     responsibilities: [
 "After successfully completing the Level 1 internship, I was offered the opportunity to continue working with the team, advancing into Level 2 of Python Full Stack Development.In this role, I focused on deeper backend logic, advanced front-end frameworks, and full-scale application development.",
