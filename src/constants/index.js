@@ -37,34 +37,34 @@ const counterItems = [
 
 const logoIconsList = [
   {
-    imgPath: "/images/java.png",
+    imgPath: "/images/java.jpeg",
   },
   {
-    imgPath: "/images/python.png",
+    imgPath: "/images/python.jpeg",
   },
   {
-    imgPath: "/images/c.png",
+    imgPath: "/images/c.jpeg",
   },
   {
-    imgPath: "/images/cpp.png",
+    imgPath: "/images/cpp.jpeg",
   },
   {
     imgPath: "/images/javascript.png",
   },
   {
-    imgPath: "/images/html.png",
+    imgPath: "/images/html.jpeg",
   },
   {
     imgPath: "/images/css.png",
   },
   {
-    imgPath: "/images/sql.png",
+    imgPath: "/images/sql.jpeg",
   },
   {
     imgPath: "/images/aws.png",
   },
   {
-    imgPath: "/images/flask.png",
+    imgPath: "/images/flask.jpeg",
   },
  
 ];
@@ -90,23 +90,23 @@ const abilities = [
 const techStackImgs = [
   {
     name: "React",
-    imgPath: "/images/logos/python.svg",
-  },
-   {
-    name: "Python",
-    imgPath: "/images/c.png",
-  },
-   {
-    name: "C++",
-    imgPath: "/images/cpp.png",
-  },
-   {
-    name: "Java Script",
     imgPath: "/images/logos/react.png",
   },
    {
+    name: "Python",
+    imgPath: "/images/logos/python.svg",
+  },
+   {
+    name: "C++",
+    imgPath: "/images/cpp.jpeg",
+  },
+   {
+    name: "Java Script",
+    imgPath: "/images/javascript.png",
+  },
+   {
     name: "HTML",
-    imgPath: "/images/html.png",
+    imgPath: "/images/html.jpeg",
   },
    {
     name: "CSS",
@@ -114,19 +114,19 @@ const techStackImgs = [
   },
    {
     name: "Flask",
-    imgPath: "/images/flask.png",
+    imgPath: "/images/flask.jpeg",
   },
    {
     name: "Java",
-    imgPath: "/images/java.png",
+    imgPath: "/images/java.jpeg",
   },
    {
     name: "SQL",
-    imgPath: "/images/sql.png",
+    imgPath: "/images/sql.jpeg",
   },
   {
-    name: "React Js",
-    imgPath: "/images/logos/react.png",
+    name: "AWS",
+    imgPath: "/images/aws.png",
   },
   
 ];
@@ -134,13 +134,13 @@ const techStackImgs = [
 
 const techStackIcons = [
   {
-    name: "Python",
-    modelPath: "/models/react_logo-transformed.glb",
+    name: "React",
+    modelPath: "/models/react_logo-transformed.glb ",
     scale: 1,
     rotation: [0, 0, 0],
   },
   {
-    name: "C",
+    name: "Python",
     modelPath: "/models/python-transformed.glb",
     scale: 0.8,
     rotation: [0, 0, 0],
