@@ -134,12 +134,6 @@ const techStackImgs = [
 
 const techStackIcons = [
   {
-    name: "React",
-    modelPath: "/models/react_logo-transformed.glb ",
-    scale: 1,
-    rotation: [0, 0, 0],
-  },
-  {
     name: "Python",
     modelPath: "/models/python-transformed.glb",
     scale: 0.8,
@@ -155,6 +149,12 @@ const techStackIcons = [
     name: "Java Script",
     modelPath: "/models/three.js-transformed.glb",
     scale: 0.05,
+    rotation: [0, 0, 0],
+  },
+    {
+    name: "React",
+    modelPath: "/models/react_logo-transformed.glb ",
+    scale: 1,
     rotation: [0, 0, 0],
   },
   {
