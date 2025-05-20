@@ -144,7 +144,7 @@ const techStackIcons = [
     {
     name: "C++",
     modelPath: "/models/c.glb",
-    scale: 1,
+    scale: 0.09,
     rotation: [0, -Math.PI / 4, 0],
   },
     {
@@ -162,13 +162,13 @@ const techStackIcons = [
    {
     name: "Javascript",
     modelPath: "/models/js.glb",
-    scale: 4,
+    scale: 0.09,
     rotation: [0, -Math.PI / 4, 0],
   },
    {
     name: "AWS",
     modelPath: "/models/aws.glb",
-    scale: 5,
+    scale: 0.09,
     rotation: [0, -Math.PI / 4, 0],
   },
 ];
