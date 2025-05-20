@@ -228,7 +228,7 @@ const testimonials = [
 name: "Dr. Sangeeta Jirgi",
 mentions: "@drsangeetajirgi",
 review: "Shrusti created a beautiful and professional website for my dental clinic that truly reflects the quality and care we offer. Her attention to detail, design sense, and technical skills made the process seamless. I’ve received several compliments from patients, and it has significantly improved our clinic’s online presence.",
-imgPath: "/images/nodp1.png",
+imgPath: "/images/nodis1.png",
   },
  {
   name: "Pallavi Swamy",
