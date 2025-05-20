@@ -250,7 +250,6 @@ const socialImgs = [
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
-    url:"https://www.linkedin.com/in/shrusti-jirgi/
   }
 ];
 
