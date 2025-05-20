@@ -228,19 +228,19 @@ const testimonials = [
 name: "Dr. Sangeeta Jirgi",
 mentions: "@drsangeetajirgi",
 review: "Shrusti created a beautiful and professional website for my dental clinic that truly reflects the quality and care we offer. Her attention to detail, design sense, and technical skills made the process seamless. I’ve received several compliments from patients, and it has significantly improved our clinic’s online presence.",
-imgPath: "/images/nodp.jpg",
+imgPath: "/images/nodp1.png",
   },
  {
   name: "Pallavi Swamy",
   mentions: "@pallaviswamy",
   review: "Shrusti made our Finance Tracker project smooth and efficient. Her Flask skills and clarity in execution were a major win for our team.",
-  imgPath: "/images/nodis.png",
+  imgPath: "/images/nodis1.png",
 },
 {
   name: "Nikhita N B",
   mentions: "@nikhitanb",
   review: "Loved working with Shrusti—she brought structure and logic into the project like a pro. Her backend work made everything run seamlessly.",
-  imgPath: "/images/nodp.jpg",
+  imgPath: "/images/nodis1.png",
 }
 ,
 ];
