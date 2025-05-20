@@ -49,16 +49,16 @@ const AppShowcase = () => {
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
             <div className="image-wrapper">
-              <img src="/images/project1.png" alt="Ryde App Interface" />
+              <img src="/images/project1.png" alt="Finance Tracker WebApp" />
             </div>
             <div className="text-content">
               <h2>
-                On-Demand Rides Made Simple with a Powerful, User-Friendly App
-                called Ryde
+                  Effortless Financial Management with a Clean, Intuitive Web App
+
               </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React Native, Expo, & TailwindCSS for a fast,
-                user-friendly experience.
+                  A dynamic finance tracker built using Flask, Python, and Chart.js, offering users a seamless way to input, manage, and visualize their financial data with real-time insights.
+
               </p>
             </div>
           </div>
@@ -68,17 +68,21 @@ const AppShowcase = () => {
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img
                   src="/images/project2.png"
-                  alt="Library Management Platform"
+                  alt="Youtube Clone"
                 />
               </div>
-              <h2>The Library Management Platform</h2>
+              <h2>Youtube Clone</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/project3.png" alt="YC Directory App" />
               </div>
-              <h2>YC Directory - A Startup Showcase App</h2>
+              <h2>  Turning Motion into Power with an Innovative Energy Solution – KineVolt
+</h2>
+              <p className="text-white-50 md:text-xl">
+  Selected in the top 10 teams of NAIN 2.0, KineVolt is a kinetic energy-based prototype designed to convert human motion into electricity. Developed using smart mechanical design and real-time power analysis for sustainable energy generation.
+</p>
             </div>
           </div>
         </div>
