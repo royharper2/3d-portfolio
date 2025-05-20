@@ -89,7 +89,7 @@ const abilities = [
 
 const techStackImgs = [
   {
-    name: "React",
+    name: "python",
     imgPath: "/images/logos/react.png",
   },
    {
