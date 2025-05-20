@@ -94,11 +94,11 @@ const techStackImgs = [
   },
    {
     name: "C",
-    imgPath: "/images/logos/react.png",
+    imgPath: "/images/c.png",
   },
    {
     name: "C++",
-    imgPath: "/images/logos/react.png",
+    imgPath: "/images/cpp.png",
   },
    {
     name: "Java Script",
@@ -106,27 +106,27 @@ const techStackImgs = [
   },
    {
     name: "HTML",
-    imgPath: "/images/logos/react.png",
+    imgPath: "/images/html.png",
   },
    {
     name: "CSS",
-    imgPath: "/images/logos/react.png",
+    imgPath: "/images/css.png",
   },
    {
     name: "Flask",
-    imgPath: "/images/logos/react.png",
+    imgPath: "/images/flask.png",
   },
    {
     name: "Java",
-    imgPath: "/images/logos/react.png",
+    imgPath: "/images/java.png",
   },
    {
     name: "SQL",
-    imgPath: "/images/logos/react.png",
+    imgPath: "/images/sql.png",
   },
   {
     name: "React Js",
-    imgPath: "/images/logos/react.png",
+    imgPath: "/images/logos/react.svg",
   },
   
 ];
