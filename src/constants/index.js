@@ -126,7 +126,7 @@ const techStackImgs = [
   },
   {
     name: "React Js",
-    imgPath: "/images/logos/react.svg",
+    imgPath: "/images/logos/react.png",
   },
   
 ];
