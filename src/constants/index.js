@@ -151,7 +151,7 @@ const techStackIcons = [
     name: "HTML",
     modelPath: "/models/html.glb",
     scale: 0.015,
-    rotation: [0,3,0],
+    rotation: [0,1,1],
   },
    {
     name: "CSS",
