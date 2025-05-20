@@ -162,13 +162,13 @@ const techStackIcons = [
    {
     name: "Javascript",
     modelPath: "/models/js.glb",
-    scale: 0.9,
+    scale: 0.5,
     rotation: [0, -Math.PI / 4, 0],
   },
    {
     name: "AWS",
     modelPath: "/models/aws.glb",
-    scale: 0.9,
+    scale: 0.5,
     rotation: [0, -Math.PI / 4, 0],
   },
 ];
