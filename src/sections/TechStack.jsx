@@ -89,7 +89,7 @@ const TechStack = () => {
           ))} 
         </div>
       </div>
-    </div>
+    </div>))}
   );
 };
 
