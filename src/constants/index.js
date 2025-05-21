@@ -28,46 +28,7 @@ const words = [
   { text: "Code", imgPath: "/images/code.svg" },
 ];
 
-const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
-];
 
-const logoIconsList = [
-  {
-    imgPath: "/images/java.jpeg",
-  },
-  {
-    imgPath: "/images/python.jpeg",
-  },
-  {
-    imgPath: "/images/c.jpeg",
-  },
-  {
-    imgPath: "/images/cpp.jpeg",
-  },
-  {
-    imgPath: "/images/javascript.png",
-  },
-  {
-    imgPath: "/images/html.jpeg",
-  },
-  {
-    imgPath: "/images/css.png",
-  },
-  {
-    imgPath: "/images/sql.jpeg",
-  },
-  {
-    imgPath: "/images/aws.png",
-  },
-  {
-    imgPath: "/images/flask.jpeg",
-  },
- 
-];
 
 const abilities = [
   {
