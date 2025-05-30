@@ -15,7 +15,7 @@ const Contact = () => {
               <div className="flex flex-col gap-6 items-start">
                 {/* 👉 Replace these with your real details */}
                 <a
-                  href="mailto:shrustijirgu3893@gmail.com
+                  href="mailto:shrustijeon@gmail.com
                   className="flex items-center gap-3 hover:text-[#cd7c2e]"
                 >
                   <img
