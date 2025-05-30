@@ -27,7 +27,7 @@ const Contact = () => {
                 </a>
 
                 <a
-                  href="https://https://www.linkedin.com/in/shrusti-jirgi/"
+                  href="https://www.linkedin.com/in/shrusti-jirgi/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 hover:text-[#cd7c2e]"
