@@ -49,16 +49,13 @@ const AppShowcase = () => {
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
             <div className="image-wrapper">
-              <img src="/images/ft.png" alt="Finance Tracker WebApp" />
+              <img src="/images/ai.png" alt="AI Sass Platform for image editing" />
             </div>
             <div className="text-content">
-              <h2>
-                  Effortless Financial Management with a Clean, Intuitive Web App
-
+              <h2>AI Sass Platform for Image Editing
               </h2>
               <p className="text-white-50 md:text-xl">
-                  A dynamic finance tracker built using Flask, Python, and Chart.js, offering users a seamless way to input, manage, and visualize their financial data with real-time insights.
-
+                 AI-powered image editing SaaS with one-click transformations (background removal, recoloring, generative fill). Built for speed using Next.js + Cloudinary AI, featuring a fair credit-based pricing model.
               </p>
             </div>
           </div>
@@ -67,11 +64,13 @@ const AppShowcase = () => {
             <div className="project" ref={libraryRef}>
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img
-                  src="/images/ai.png"
-                  alt="AI Sass Platfrom for Image Editing"
+                  src="/images/ft.png"
+                  alt="Finance Tracker"
                 />
               </div>
-              <h2>"AI Sass Platfrom for Image Editing</h2>
+              <h2>
+                  Effortless Financial Management with a Clean, Intuitive Web App</h2>
+              <p className="text-white-50 md:text-xl">A dynamic finance tracker built using Flask, Python, and Chart.js, offering users a seamless way to input, manage, and visualize their financial data with real-time insights.</p>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
@@ -81,7 +80,7 @@ const AppShowcase = () => {
               <h2>  Turning Motion into Power with an Innovative Energy Solution – KineVolt
 </h2>
               <p className="text-white-50 md:text-xl">
-  Selected in the top 10 teams of NAIN 2.0, KineVolt is a kinetic energy-based prototype designed to convert human motion into electricity. Developed using smart mechanical design and real-time power analysis for sustainable energy generation.
+  Selected in the top 10 teams of NAIN 2.0, KineVolt is a kinetic energy-based prototype designed to convert human motion into electricity.
 </p>
             </div>
           </div>
