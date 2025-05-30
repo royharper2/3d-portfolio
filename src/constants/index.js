@@ -177,13 +177,6 @@ imgPath: "/images/nodis1.png",
 ,
 ];
 
-const socialImgs = [
- 
-  {
-    name: "linkedin",
-    imgPath: "/images/linkedin.png",
-  }
-];
 
 export {
   words,
