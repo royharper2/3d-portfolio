@@ -71,12 +71,12 @@ const AppShowcase = () => {
                   alt="AI Sass Platfrom for Image Editing"
                 />
               </div>
-              <h2></h2>
+              <h2>"AI Sass Platfrom for Image Editing</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
-                <img src="/images/project3.png" alt="YC Directory App" />
+                <img src="/images/kv.png" alt="Nain 2.0 project" />
               </div>
               <h2>  Turning Motion into Power with an Innovative Energy Solution – KineVolt
 </h2>
