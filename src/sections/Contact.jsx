@@ -15,11 +15,11 @@ const Contact = () => {
               <div className="flex flex-col gap-6 items-start">
                 {/* 👉 Replace these with your real details */}
                 <a
-                  href="mailto:shrustijeon@gmail.com"
+                  href="mailto:shrustirj08@gmail.com"
                   className="flex items-center gap-3 hover:text-[#cd7c2e]"
                 >
                   <img
-                    src="/images/envelope-solid.svg"
+                    src="/images/gmail.png"
                     alt="email"
                     className="w-6 h-6"
                   />
